@@ -1,0 +1,302 @@
+body{
+		font-family: Arial, sans-serif;/*Typ písma*/
+		background-color: #ebc0dc; /* Farba pozadia (sloboružová) */
+		margin: 0;
+		padding: 20px;
+		}
+h1{
+    font-size: 120px;
+    text-align:center;
+    color: rgb(102, 27, 146); 
+    border-bottom: 5px solid rgb(135, 98, 160);
+    letter-spacing: 2px;
+    padding-bottom: 10px;
+    font-family: "Tapestry"
+    
+}
+.vitanie{
+      font-size: 25px;
+    text-align:center;
+    background-color: #aa5a8e
+    color: rgb(0, 0, 0); 
+ 
+    letter-spacing: 2px;
+  
+    font-family: "Tapestry", cursive;
+}
+
+.logo{
+float: right;
+    
+    width: 180px;
+     display: block;
+    margin: 0 auto;
+    padding-bottom: 1px;
+}
+
+.vianky{
+    float: left;
+    margin: 0 0 10px 10px;
+    width: 250px;
+    padding-bottom: 2px;
+}
+
+.obrazky{
+      font-size: 40px;
+    display: flex;   
+     color: rgb(102, 27, 146); 
+   
+    letter-spacing: 2px;
+    
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+    font-family: "Tapestry";
+    transition: transform 0.3s;
+    justify-content:center;
+    text-align:center;
+}
+
+
+
+
+.obrazky :hover{
+  transform: scale(1.1);
+}
+
+ .vianoce{
+    font-size: 60px;
+    text-align:center;
+    color: rgb(102, 27, 146); 
+    
+    letter-spacing: 2px;
+    
+    font-family: "Tapestry";
+
+ }
+ .obrazok{
+    display: block;
+    margin: 0 auto;
+    width: 820px;
+ }
+ 
+
+ .ingrediencie1{
+    font-size: 70px;
+    text-align:left;
+    color: rgb(202, 111, 255); 
+   
+    font-family: "IM Fell English SC";  
+                                                                                              
+ }
+
+
+
+   .ingrediencie2{
+    font-size: 70px;
+    text-align:left;
+    color: rgb(202, 111, 255); 
+   
+    font-family: "IM Fell English SC";  
+    	
+	}                                                                                                   
+ 
+.ingrediencie3{
+    font-size: 70px;
+    text-align:left;
+    color: rgb(202, 111, 255); 
+   
+    font-family: "IM Fell English SC";                                                                                                     
+ }
+ .ingrediencie4{
+    font-size: 70px;
+    text-align:left;
+    color: rgb(202, 111, 255); 
+   
+    font-family: "IM Fell English SC";                                                                                                     
+ }
+ .ingrediencie5{
+    font-size: 70px;
+    text-align:left;
+    color: rgb(202, 111, 255); 
+   
+    font-family: "IM Fell English SC";                                                                                                     
+ }
+
+ .cestove1{
+    font-size: 30px;
+    text-align:left;
+    color: rgb(0, 0, 0); 
+   font-family: "IM Fell English SC";
+   
+ 
+}
+.cestove2{
+    font-size: 30px;
+    text-align:left;
+    color: rgb(0, 0, 0); 
+   font-family: "IM Fell English SC";
+ 
+}
+.cestove3{
+    font-size: 30px;
+    text-align:left;
+    color: rgb(0, 0, 0); 
+   font-family: "IM Fell English SC";
+ 
+}
+.cestove4{
+    font-size: 30px;
+    text-align:left;
+    color: rgb(0, 0, 0); 
+   font-family: "IM Fell English SC";
+ 
+}
+.cestove5{
+    font-size: 30px;
+    text-align:left;
+    color: rgb(0, 0, 0); 
+   font-family: "IM Fell English SC";
+ 
+}
+
+
+ .postup1{
+    font-size: 70px;
+    text-align:left;
+   color: rgb(202, 111, 255);
+   
+    font-family: "IM Fell English SC"
+}
+.postup2{
+    font-size: 70px;
+    text-align:left;
+   color: rgb(202, 111, 255);
+   
+    font-family: "IM Fell English SC"
+}
+.postup3{
+    font-size: 70px;
+    text-align:left;
+   color: rgb(202, 111, 255);
+   
+    font-family: "IM Fell English SC"
+}
+.postup4{
+    font-size: 70px;
+    text-align:left;
+   color: rgb(202, 111, 255);
+   
+    font-family: "IM Fell English SC"
+}
+.postup5{
+    font-size: 70px;
+    text-align:left;
+   color: rgb(202, 111, 255);
+   
+    font-family: "IM Fell English SC"
+}
+
+.postupove1{
+    font-size: 30px;
+    text-align:left;
+    color: rgb(0, 0, 0); 
+   font-family: "IM Fell English SC";
+   line-height: 1.6
+}
+.postupove2{
+    font-size: 30px;
+    text-align:left;
+    color: rgb(0, 0, 0); 
+   font-family: "IM Fell English SC";
+   line-height: 1.6
+}
+.postupove3{
+    font-size: 30px;
+    text-align:left;
+    color: rgb(0, 0, 0); 
+   font-family: "IM Fell English SC";
+   line-height: 1.6
+}
+.postupove4{
+    font-size: 30px;
+    text-align:left;
+    color: rgb(0, 0, 0); 
+   font-family: "IM Fell English SC";
+   line-height: 1.6
+}
+.postupove5{
+    font-size: 30px;
+    text-align:left;
+    color: rgb(0, 0, 0); 
+   font-family: "IM Fell English SC";
+   line-height: 1.6
+}
+.rozky{
+     font-size: 70px;
+    text-align:center;
+    color: rgb(102, 27, 146); 
+    font-family: "Tapestry";
+   
+   }
+
+.rozkyobr{
+    float: right;
+    margin: 0 0 10px 10px;
+    width: 850px;
+    
+    }
+
+    .kokos{
+     font-size: 70px;
+    text-align:center;
+    color: rgb(102, 27, 146); 
+ font-family: "Tapestry";  
+ }
+
+   .kokosobr{
+    float: right;
+    margin: 0 0 15px 15px;
+    width: 850px;
+    }
+
+.linecke{
+     font-size: 70px;
+    text-align:center;
+    color: rgb(102, 27, 146); 
+ font-family: "Tapestry";
+   }
+
+   .lineckeobr{
+    float: right;
+    margin: 0 0 15px 15px;
+    width: 800px;
+    }
+
+    .vrkoce{
+     font-size: 70px;
+    text-align:center;
+    color: rgb(102, 27, 146); 
+ font-family: "Tapestry";
+   }
+
+   .vrkoceobr{
+    float: right;
+    margin: 0 0 15px 15px;
+    width: 700px;
+    }
+
+    .labky{
+     font-size: 70px;
+    text-align:center;
+    color: rgb(102, 27, 146); 
+ font-family: "Tapestry";
+   }
+
+   .labkyobr{
+    float: right;
+    margin: 0 0 15px 15px;
+    width: 850px;
+    }
+
+
